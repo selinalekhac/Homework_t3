@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework t3</string>
+    <string name="catbreed">Cat Breed</string>
+    <string name="catdescription">Cat Description</string>
+    <string name="catweight">Cat Weight</string>
+    <string name="cattemperament">Cat Temperament</string>
+    <string name="catorigin">Cat Origin</string>
+    <string name="catwikilink">Cat Wiki Link</string>
+    <string name="catlifespan">Cat Lifespan</string>
+    <string name="dogfriendliness">Dog Friendliness</string>
+</resources>
